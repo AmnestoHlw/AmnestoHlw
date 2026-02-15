@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer | Freelance IT</h3>
 
 <p align="center">
-  <img src="https://freelance-nestohlw.wuaze.com/img/nestoo.png" width="150" style="border-radius:50em;">
+  <img src="https://freelance-nestohlw.wuaze.com/img/nestoo.png" width="250" style="border-radius:50;">
 </p>
 
 ---
